@@ -1,0 +1,12 @@
+.grid-container {
+    display: inline-grid;
+    background-color: beige;
+  }
+
+  .grid-item1{
+    grid-column-start: 0;
+    grid-column-end: 0;
+
+  }
+
+  
